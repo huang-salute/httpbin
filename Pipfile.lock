@@ -3,7 +3,7 @@
         "hash": {
             "sha256": "b709c9b498d9be5088c0f485aafe18a04a8ed5144d397111a8f1d8bd06d7a16e"
         },
-        "pipfile-spec": 8,
+        "pipfile-spec": 6,
         "requires": {},
         "sources": [
             {
